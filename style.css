@@ -4,11 +4,15 @@ body {
 }
 
 #navbar{
-  background: rgb(255,255,0);
+  background:rgb(25, 118, 210);
 }
 #navbar ul {
   margin:0;
 }
 #navbar ul li{
   list-style:none;
+}
+#navbar ul li a{
+  color: rgb(255,255,255);
+  text-decoration:none;
 }
