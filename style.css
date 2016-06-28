@@ -43,8 +43,12 @@ body {
 }
 #jumbo {
   background:rgb(33, 150, 243);
+  padding:35px 0 20px 0;
 }
 #jumbo .container * {
   color: white;
   margin:0;
+}
+#jumbo h1 {
+  font-size:60px;
 }
