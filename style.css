@@ -3,6 +3,6 @@ body {
   font-family:'Helevica',sans-serif;
 }
 
-#navbar{
+.navbar{
   background: rgb(0,0,255);
 }
