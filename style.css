@@ -42,8 +42,9 @@ body {
   margin:0 auto;
 }
 #jumbo {
-	background:rgb(33, 150, 243);
+  background:rgb(33, 150, 243);
 }
-#jumbo * {
+#jumbo .container * {
   color:white;
+  margin:0;
 }
