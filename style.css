@@ -18,6 +18,7 @@ body {
  line-height:50px;
 }
 #navbar .nav-header span {
+  font-size: 150px;
   color: white;
 }
 #navbar ul {
