@@ -9,6 +9,7 @@ body {
 }
 #navbar {
   background: rgb(25, 118, 210);
+  min-height:50px;
 }
 
 #navbar ul {
