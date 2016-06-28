@@ -13,8 +13,11 @@ body {
 
 #navbar ul {
   margin:0;
-  color:white;
 }
 #navbar ul li {
   list-style:none;
+}
+#navbar ul li a {
+  color:white;
+  text-decoration:none;
 }
