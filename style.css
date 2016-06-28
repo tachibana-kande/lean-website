@@ -17,6 +17,9 @@ body {
  float:left;
  line-height:50px;
 }
+#navbar .nav-header span {
+  color: white;
+}
 #navbar ul {
   margin:0;
 }
