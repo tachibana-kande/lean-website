@@ -9,3 +9,6 @@ body {
 #navbar ul {
   margin:0;
 }
+#navbar ul li{
+  list-style:none;
+}
