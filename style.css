@@ -4,7 +4,7 @@ body {
 }
 
 #navbar{
-  max-height:50px;
+  min-height:50px;
   background:rgb(25, 118, 210);
 }
 #navbar ul {
