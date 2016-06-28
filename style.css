@@ -18,8 +18,10 @@ body {
 #navbar ul li {
   list-style:none;
   float:left;
+  padding-left:20px;
 }
 #navbar ul li a {
   color:white;
   text-decoration:none;
+  line-height:50px;
 }
