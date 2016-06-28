@@ -16,6 +16,10 @@ body {
   float:left;
   list-style:none;
 }
+#navbar ul li:hover {
+  background: rgb(0,0,255);
+}
+
 #navbar ul li a{
   line-height: 50px;
   color: rgb(255,255,255);
