@@ -14,7 +14,6 @@ body {
 .clearfix { display: inline-block; }
 
 #navbar{
-  min-height:50px;
   background:rgb(25, 118, 210);
 }
 #navbar ul {
