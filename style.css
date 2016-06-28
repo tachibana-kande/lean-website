@@ -41,3 +41,9 @@ body {
   max-width:1400px;
   margin:0 auto;
 }
+#jumbo {
+	background:rgb(33, 150, 243);
+}
+#jumbo * {
+  color:white;
+}
