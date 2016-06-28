@@ -9,6 +9,7 @@ body {
 }
 #navbar ul {
   margin:0;
+  padding:0;
 }
 #navbar ul li{
   padding-left:10px;
